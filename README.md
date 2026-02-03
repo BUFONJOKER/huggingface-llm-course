@@ -57,6 +57,8 @@ code .
 
 4. Follow along with the [official course](https://huggingface.co/learn/llm-course) chapter by chapter
 
+All notebooks can also be run in Google Colab, and I will run them in VS Code using the Colab extension.
+
 ## 🛠️ Technologies Used
 
 - **🤗 Transformers**: State-of-the-art NLP and LLM models
